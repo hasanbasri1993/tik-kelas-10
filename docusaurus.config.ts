@@ -15,15 +15,16 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io', // Ganti dengan username GitHub Anda
+  // Set the production url of your site here
+  url: 'https://hasanbasri1993.github.io', // Your GitHub Pages URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/', // Jika deploy ke GitHub Pages dengan repo name, ganti menjadi '/repo-name/'
+  baseUrl: '/docusaurus-site/', // Your repo name
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-username', // Ganti dengan username GitHub Anda
-  projectName: 'kisi-kisi-belajar', // Ganti dengan nama repo GitHub Anda
+  organizationName: 'hasanbasri1993', // Your GitHub username
+  projectName: 'docusaurus-site', // Your repo name
 
   onBrokenLinks: 'throw',
 
