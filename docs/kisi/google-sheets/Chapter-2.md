@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 📊 2. Google Sheets Dasar
+# Chapter 2: Google Sheets Dasar
 
 ## Pengertian Google Sheets
 

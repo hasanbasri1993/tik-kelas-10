@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Sorting dan Filtering Data
+# Chapter 10: Sorting dan Filtering Data
 
 ## Pengertian
 

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Formula Sederhana di Google Sheets
+# Chapter 6: Formula Sederhana di Google Sheets
 
 ## Simple Formulas (Formula Sederhana)
 

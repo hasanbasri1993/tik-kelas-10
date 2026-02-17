@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Mengubah Kolom, Baris, dan Sel
+# Chapter 3: Mengubah Kolom, Baris, dan Sel
 
 ## Mengubah Lebar Kolom
 

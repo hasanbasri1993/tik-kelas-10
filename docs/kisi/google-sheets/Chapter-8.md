@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Jenis Referensi Sel di Google Sheets
+# Chapter 8: Jenis Referensi Sel di Google Sheets
 
 ## Dua Jenis Cell Reference
 - **Relative Reference** (Referensi Relatif) - Berubah saat di-copy

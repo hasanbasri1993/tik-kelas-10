@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Formula Kompleks di Google Sheets
+# Chapter 7: Formula Kompleks di Google Sheets
 
 ## Pengertian Formula Kompleks
 - **Formula Kompleks**: Formula yang mengandung **lebih dari satu operator** matematika

@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Functions di Google Sheets
+# Chapter 9: Functions di Google Sheets
 
 ## Pengertian Function (Fungsi)
 

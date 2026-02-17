@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Formatting (Memformat Sel)
+# Chapter 4: Formatting (Memformat Sel)
 
 ## Pengertian Formatting
 
