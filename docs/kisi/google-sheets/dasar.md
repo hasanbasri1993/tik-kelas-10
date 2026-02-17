@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 📊 2. Google Sheets Dasar
 
 ## Pengertian Google Sheets
@@ -131,3 +135,11 @@ Baris di bagian paling bawah:
 - 🎨 **Formatting Attributes**: Atribut format (warna, font, dll)
 - 🧮 **Formulas**: Rumus perhitungan (contoh: SUM, AVERAGE)
 - ⚙️ **Functions**: Fungsi bawaan Google Sheets
+
+---
+
+:::info Sumber Materi
+Materi ini disadur dan diadaptasi dari konten edukasi yang dibuat oleh **[LearnFree.org](https://www.learnfree.org/)** — sebuah program dari Setser Group Community. Digunakan untuk tujuan pendidikan non-komersial sesuai dengan [Ketentuan Layanan LearnFree.org](https://www.learnfree.org/terms-conditions).
+
+© LearnFree.org — All rights reserved.
+:::

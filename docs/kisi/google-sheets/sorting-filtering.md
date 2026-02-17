@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # Sorting dan Filtering Data
 
 ## Pengertian
@@ -81,3 +85,11 @@
 - 🔍 **Filter tidak menghapus data**, hanya menyembunyikan
 - 📊 **Sort Sheet** vs **Sort Range**: Pilih sesuai kebutuhan (seluruh sheet atau range tertentu)
 - 💡 **Multiple filters** membantu mempersempit pencarian data
+
+---
+
+:::info Sumber Materi
+Materi ini disadur dan diadaptasi dari konten edukasi yang dibuat oleh **[LearnFree.org](https://www.learnfree.org/)** — sebuah program dari Setser Group Community. Digunakan untuk tujuan pendidikan non-komersial sesuai dengan [Ketentuan Layanan LearnFree.org](https://www.learnfree.org/terms-conditions).
+
+© LearnFree.org — All rights reserved.
+:::

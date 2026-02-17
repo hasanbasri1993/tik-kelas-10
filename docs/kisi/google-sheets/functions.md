@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Functions di Google Sheets
 
 ## Pengertian Function (Fungsi)
@@ -68,3 +72,11 @@
 - ⚠️ **Selalu periksa fungsi** - Google Sheets tidak selalu memberi peringatan error
 - 📚 Bisa akses **Google Sheets Function List** untuk melihat semua fungsi yang tersedia
   - Klik **Functions button** → **More functions...**
+
+---
+
+:::info Sumber Materi
+Materi ini disadur dan diadaptasi dari konten edukasi yang dibuat oleh **[LearnFree.org](https://www.learnfree.org/)** — sebuah program dari Setser Group Community. Digunakan untuk tujuan pendidikan non-komersial sesuai dengan [Ketentuan Layanan LearnFree.org](https://www.learnfree.org/terms-conditions).
+
+© LearnFree.org — All rights reserved.
+:::

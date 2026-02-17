@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Empat Teknik Pendekatan Berpikir Komputasional
 
 ## A. ✂️ DEKOMPOSISI

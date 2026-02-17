@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Manfaat Berpikir Komputasional
 
 Berpikir komputasional memberikan berbagai manfaat dalam kehidupan sehari-hari:

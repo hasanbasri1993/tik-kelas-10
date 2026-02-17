@@ -18,10 +18,10 @@ Edit `docusaurus.config.ts`:
 
 ```typescript
 const config: Config = {
-  url: 'https://your-username.github.io', // Ganti dengan username GitHub Anda
+  url: 'https://hasanbasri1993.github.io/tik-kelas-10/', // Ganti dengan username GitHub Anda
   baseUrl: '/', // Jika repo name berbeda, ganti menjadi '/repo-name/'
-  organizationName: 'your-username', // Ganti dengan username GitHub Anda
-  projectName: 'kisi-kisi-belajar', // Ganti dengan nama repo GitHub Anda
+  organizationName: 'hasanbasri1993', // Ganti dengan username GitHub Anda
+  projectName: 'tik-kelas-10', // Ganti dengan nama repo GitHub Anda
   // ...
 }
 ```
@@ -43,7 +43,7 @@ npm run deploy
 **Opsi B: Manual dengan environment variable**
 
 ```bash
-GIT_USER=your-username npm run deploy
+GIT_USER=hasanbasri1993 npm run deploy
 ```
 
 **Opsi C: Manual dengan git**
@@ -55,7 +55,7 @@ git init
 git add -A
 git commit -m "Deploy website"
 git branch -M main
-git remote add origin https://github.com/your-username/kisi-kisi-belajar.git
+git remote add origin https://github.com/hasanbasri1993/kisi-kisi-belajar.git
 git push -f origin main:gh-pages
 ```
 
@@ -68,7 +68,7 @@ git push -f origin main:gh-pages
 5. Folder: **/ (root)**
 6. Klik **Save**
 
-Website akan tersedia di: `https://your-username.github.io/kisi-kisi-belajar/`
+Website akan tersedia di: `https://hasanbasri1993.github.io/kisi-kisi-belajar/`
 
 ## ☁️ Netlify
 
@@ -78,7 +78,7 @@ Website akan tersedia di: `https://your-username.github.io/kisi-kisi-belajar/`
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/your-username/kisi-kisi-belajar.git
+git remote add origin https://github.com/hasanbasri1993/kisi-kisi-belajar.git
 git push -u origin main
 ```
 

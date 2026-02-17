@@ -15,8 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  // Set the production url of your site here
-  url: 'https://hasanbasri1993.github.io', // Your GitHub Pages URL
+  url: 'https://hasanbasri1993.github.io/', // Your GitHub Pages URL
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/tik-kelas-10/', // Your repo name
@@ -45,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-username/kisi-kisi-belajar/tree/main/', // Ganti dengan URL repo Anda
+            'https://github.com/hasanbasri1993/tik-kelas-10/tree/main/', // Ganti dengan URL repo Anda
         },
         blog: false, // Disable blog untuk fokus pada docs
         theme: {
@@ -75,7 +74,7 @@ const config: Config = {
           label: 'Materi',
         },
         {
-          href: 'https://github.com/your-username/kisi-kisi-belajar', // Ganti dengan URL repo Anda
+          href: 'https://github.com/hasanbasri1993/tik-kelas-10', // Ganti dengan URL repo Anda
           label: 'GitHub',
           position: 'right',
         },
@@ -102,12 +101,12 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-username/kisi-kisi-belajar', // Ganti dengan URL repo Anda
+              href: 'https://github.com/hasanbasri1993/tik-kelas-10', // Ganti dengan URL repo Anda
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Kisi-Kisi Belajar UAS. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Materi TIK Kelas 10. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

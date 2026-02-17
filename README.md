@@ -41,7 +41,7 @@ npm run serve
 ### GitHub Pages
 
 1. **Update `docusaurus.config.ts`**:
-   - Ganti `url` dengan URL GitHub Pages Anda (contoh: `https://your-username.github.io`)
+   - Ganti `url` dengan URL GitHub Pages Anda (contoh: `https://hasanbasri1993.github.io`)
    - Ganti `baseUrl` dengan nama repo jika diperlukan (contoh: `/kisi-kisi-belajar/`)
    - Ganti `organizationName` dengan username GitHub Anda
    - Ganti `projectName` dengan nama repo GitHub Anda
